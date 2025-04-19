@@ -1,2 +1,2 @@
 "# image-search-app" 
-live site : https://mdrony5134.github.io/image-search-app/
+ # Live_Demo :- https://imagesearch7app.netlify.app/
